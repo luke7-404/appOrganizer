@@ -1,6 +1,6 @@
-# App Launcher
+# App Organizer
 
-**App Launcher** is a Python-based system tray application that lets users load and manage applications from a JSON configuration file. It provides an intuitive interface for launching applications and customizing the tray icon.
+**App Organizer** is a Python-based system tray application that lets users load and manage applications from a JSON configuration file. It provides an intuitive interface for launching applications and customizing the tray icon.
 
 ## Features
 - Load and dynamically populate the tray menu with applications from a JSON file.
